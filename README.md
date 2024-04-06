@@ -1,7 +1,7 @@
 # TOP Foundations - Readme
 This is summary of my take on [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) from [The Odin Project (TOP)](https://www.theodinproject.com) which is an open-source curriculum for learning full-stack web development.
 
-See the [live demo](https://pasek108.github.io/TOP-Calculator/) with my assignments and knowledge check answers.
+See the [live demo](https://pasek108.github.io/TOP-Foundations/) with my assignments and knowledge check answers.
 
 ----------------------------------
 
