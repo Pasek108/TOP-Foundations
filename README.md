@@ -1,7 +1,7 @@
 <h1 align="center">TOP-Foundations - Readme</h1>
 <p align="center">
   <strong>
-    This is a summary of my take on the <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">Foundations Course</a> from <a href="https://www.theodinproject.com" target="_blank">The Odin Project (TOP)</a>, an open-source curriculum for learning full-stack web development. 
+     Summary of my take on the <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">Foundations Course</a> from <a href="https://www.theodinproject.com" target="_blank">The Odin Project (TOP)</a> full-stack curriculum. 
   </strong>
 </p>
 <div align="center">
